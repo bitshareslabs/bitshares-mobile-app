@@ -25,7 +25,7 @@ Bitshares Mobile App is the mobile wallet for the [Bitshares Blockchain](https:/
 ## Development Environment
 
 * Xcode 9.4.1 - 10.1
-* Android Stduio 3.1.3 - 3.2
+* [Android Studio 3.1.3 - 3.2](https://developer.android.com/studio)
 
 ## iOS Compile
 
